@@ -1,5 +1,3 @@
-on:
-  workflow_dispatch:
 name: Build Android Phira
 on:
   workflow_dispatch:
